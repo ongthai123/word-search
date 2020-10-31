@@ -1,0 +1,12 @@
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.deps.json
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.runtimeconfig.json
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.runtimeconfig.dev.json
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.dll
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.pdb
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.csprojAssemblyReference.cache
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.AssemblyInfoInputs.cache
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.AssemblyInfo.cs
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.dll
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.pdb
+C:\Users\irealracing4\Downloads\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.genruntimeconfig.cache
